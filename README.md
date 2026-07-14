@@ -1,4 +1,4 @@
-##Hi 👋, I'm Dita Tran
+# Hi 👋, I'm Dita Tran
  
 Data Analyst turning messy marketing, product, and ops data into decisions people actually act on.
  
